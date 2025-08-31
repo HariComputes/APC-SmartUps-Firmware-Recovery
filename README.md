@@ -26,7 +26,7 @@ I have 2 to update. An APC ID18 SMT1000 and an APC ID17 SMT1000. The update on t
 <a name="Fix"/></a>
 # Fixing it
 
-I'd recommend trying [Recovering via Serial] first. as using a cable to flash your ups is way easier than a teardown. Especially if it's not required.
+I'd recommend trying [Recovering via Serial](#Serial-Recovery) first. as using a cable to flash your ups is way easier than a teardown. Especially if it's not required.
 
 <a name="Tools"/></a>
 ## Tools required for recovery

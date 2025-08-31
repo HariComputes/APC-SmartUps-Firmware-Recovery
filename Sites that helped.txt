@@ -7,3 +7,5 @@ https://secure.ups-trader.co.uk/Forum/topic/38-how-to-un-brick-a-smt-range-ups-a
 https://www.eevblog.com/forum/repair/help-with-bricked-apc-ups-smt1500/50
 
 https://wejn.org/2021/02/howto-usb-cable-for-APC-Smart-UPS-SC450RMI1U
+
+https://community.se.com/t5/APC-UPS-Data-Center-Enterprise/APC-UPS-SMX1500-firmware-update-failure-and-fixed/td-p/294993

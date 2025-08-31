@@ -8,8 +8,8 @@
 - [Flashing EEPROM Data](#Put-EEPROM)
 - [It's still broken - Next Steps](#Not-Fixed)
 - [Recovering via Serial](#Serial-Recovery)
-- [Additional Info](Additional)
-- [Links](Links)
+- [Additional Info](#Additional)
+- [Links](#Links)
 
 #
 

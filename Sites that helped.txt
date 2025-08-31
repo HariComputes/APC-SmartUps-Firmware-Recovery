@@ -1,0 +1,9 @@
+https://www.tarball.ca/posts/unbricking-an-apc-smt3000-ups-after-a-failed-firmware-update
+
+https://electronics.stackexchange.com/questions/581274/why-is-there-a-difference-between-arm-10-pin-jtag-debug-pinout-and-the-stlink
+
+https://secure.ups-trader.co.uk/Forum/topic/38-how-to-un-brick-a-smt-range-ups-after-firmware-flash-failure.html
+
+https://www.eevblog.com/forum/repair/help-with-bricked-apc-ups-smt1500/50
+
+https://wejn.org/2021/02/howto-usb-cable-for-APC-Smart-UPS-SC450RMI1U
